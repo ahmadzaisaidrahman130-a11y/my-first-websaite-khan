@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="ps">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>زما لومړنی ویب‌سایټ</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #071b3b, #087e8b);
+      color: white;
+      text-align: center;
+      min-height: 100vh;
+    }
+    header {
+      padding: 25px 10px;
+      background: #061329;
+    }
+    h1 {
+      color: #ffd166;
+    }
+    main {
+      padding: 70px 20px;
+    }
+    p {
+      font-size: 20px;
+      line-height: 1.8;
+    }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 14px 25px;
+      background: #ffd166;
+      color: #071b3b;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+    footer {
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>زما ویب‌سایټ ته ښه راغلاست!</h1>
+  </header>
+  <main>
+    <h2>سلامونه! 👋</h2>
+    <p>دا زما لومړنی ویب‌سایټ دی.</p>
+    <p>زه د ویب‌ډیزاین زده کړه کوم.</p>
+    <a href="https://github.com/">GitHub ته لاړ شه</a>
+  </main>
+  <footer>
+    زما لومړنی ویب‌سایټ © 2026
+  </footer>
+</body>
+</html>
